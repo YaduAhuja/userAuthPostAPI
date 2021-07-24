@@ -5,7 +5,7 @@ An API of User Authentication and post trackings. It can be used in variety of A
 # Setup
 ## Configuration:
 * First Create a config directory at root of project
-* Create a TS File named Default.ts
+* Create a TS File named `Default.ts`
 * export default the Config from here
 
 ## Sample `Default.ts`:
