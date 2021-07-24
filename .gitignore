@@ -102,3 +102,11 @@ dist
 
 # TernJS port file
 .tern-port
+
+
+#Yarn Locks
+yarn.lock
+
+
+#Exclude Configs
+config/default.ts
