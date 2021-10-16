@@ -15,7 +15,7 @@ An API of User Authentication and post trackings. It can be used in variety of A
 		"host": "HOST_ADDRESS",
 		"dbUri": "DATABASE_CONNECTION_STRING",
 		"saltWorkFactor": 10,
-		"accessTokenTt": "15m",
+		"accessTokenTtl": "15m",
 		"refreshTokenTtl": "1y",
 		"privateKey": "PRIVATE_KEY TO SIGN TOKENS"
 	}
